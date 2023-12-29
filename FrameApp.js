@@ -1,3 +1,4 @@
+//Part 1: Frame App
 import "./styles.css";
 let arr = ["Hello", "World", "in", "a", "frame"];
 
